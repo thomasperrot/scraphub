@@ -37,6 +37,7 @@ To install it, simply run:
 
 .. code-block:: bash
 
+   pip install -r requirements.txt
    pip install .
 
 Then start ElasticSearch and Kibana instance:
