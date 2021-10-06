@@ -1,2 +1,2 @@
 elasticsearch-dsl==7.2.0
-scrapy==2.1.0
+scrapy==2.5.1
